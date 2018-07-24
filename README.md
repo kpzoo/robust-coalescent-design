@@ -4,4 +4,4 @@ Code for examining Fisher experimental design for coalescent processes. Reproduc
 1) The ellipseFish.m produces design (uncertainty) ellipses for 2 parameter skyline coalescent processes.
 2) The probSampleSquare.m examines a square wave robust design problem as detailed in the supporting text of the manuscript.
 3) All other m files are dependencies.
-4) Code depends on partitions and notBoxPlot packages from Matlab file exchange. Included here.
+4) Code depends on intpartitions and notBoxPlot packages from Matlab file exchange. Included here as subfolders.
